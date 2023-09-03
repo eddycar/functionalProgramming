@@ -33,7 +33,6 @@ public class FunctionalProgrammingApplication implements CommandLineRunner {
 			}
 		});
 		System.out.println("Numeros " + numeros);
-
 		// 2. - Obtener pares de una lista
 		List<Integer> filtrados = Funcional.filtrar(numeros, new SoloPares());
 		System.out.println("Filtrados " + filtrados);
