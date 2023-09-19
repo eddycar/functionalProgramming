@@ -1,12 +1,12 @@
 package com.edi.functionalProgramming;
 
-import com.edi.functionalProgramming.v3_InlineClases.v2_funcional.clases.AlCuadrado;
-import com.edi.functionalProgramming.v3_InlineClases.v2_funcional.clases.Impresor;
-import com.edi.functionalProgramming.v3_InlineClases.v2_funcional.clases.Multiplicador;
-import com.edi.functionalProgramming.v3_InlineClases.v2_funcional.clases.SoloPares;
-import com.edi.functionalProgramming.v3_InlineClases.v2_funcional.interfaces.Proveedor;
+import com.edi.functionalProgramming.v2_funcional.clases.AlCuadrado;
+import com.edi.functionalProgramming.v2_funcional.clases.Impresor;
+import com.edi.functionalProgramming.v2_funcional.clases.Multiplicador;
+import com.edi.functionalProgramming.v2_funcional.clases.SoloPares;
+import com.edi.functionalProgramming.v2_funcional.interfaces.Proveedor;
 import com.edi.functionalProgramming.v1_imperactiva.FuncionesImperativas;
-import com.edi.functionalProgramming.v3_InlineClases.v2_funcional.Funcional;
+import com.edi.functionalProgramming.v2_funcional.Funcional;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

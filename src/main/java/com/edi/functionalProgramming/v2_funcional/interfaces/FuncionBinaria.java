@@ -1,4 +1,4 @@
-package com.edi.functionalProgramming.v3_InlineClases.v2_funcional.interfaces;
+package com.edi.functionalProgramming.v2_funcional.interfaces;
 
 public interface FuncionBinaria<T, T1, T2> {
 

@@ -1,10 +1,8 @@
 package com.edi.functionalProgramming.v5_flujos;
 
-import com.edi.functionalProgramming.v3_InlineClases.v2_funcional.clases.Impresor;
 import com.edi.functionalProgramming.v5_flujos.interfaces.*;
 
 import java.util.List;
-import java.util.Random;
 
 //************************************************************************************************************************//
 //*********************** En esta version se crean las clases sobre la marcha por ejemplo new Proveedor() *************** //

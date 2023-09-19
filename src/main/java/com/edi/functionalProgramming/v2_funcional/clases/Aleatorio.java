@@ -1,6 +1,6 @@
-package com.edi.functionalProgramming.v3_InlineClases.v2_funcional.clases;
+package com.edi.functionalProgramming.v2_funcional.clases;
 
-import com.edi.functionalProgramming.v3_InlineClases.v2_funcional.interfaces.Proveedor;
+import com.edi.functionalProgramming.v2_funcional.interfaces.Proveedor;
 
 import java.util.Random;
 

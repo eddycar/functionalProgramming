@@ -1,6 +1,6 @@
-package com.edi.functionalProgramming.v3_InlineClases.v2_funcional;
+package com.edi.functionalProgramming.v2_funcional;
 
-import com.edi.functionalProgramming.v3_InlineClases.v2_funcional.interfaces.*;
+import com.edi.functionalProgramming.v2_funcional.interfaces.*;
 
 import java.util.ArrayList;
 import java.util.List;
